@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d632ae-18d8-4bea-9d20-cf5d9a65f341" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="test2" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XI9veBrWLQaJXv2XXStvqDuvl6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/skyc2-skyeye-perception" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\L-kongyun\PycharmProjects\test2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.test">
+    <configuration name="DpTech-EDS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DpTech-EDS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DpTech-EDS1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/WeChat Files/wxid_thegjofj0in722/FileStorage/File/2020-06" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/WeChat Files/wxid_thegjofj0in722/FileStorage/File/2020-06/DpTech-EDS1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testDp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Roaming/LanxinSoftCustom/Resource/Docs" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Roaming/LanxinSoftCustom/Resource/Docs/testDp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yml" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/yml.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.DpTech-EDS1" />
+        <item itemvalue="Python.DpTech-EDS" />
+        <item itemvalue="Python.testDp" />
+        <item itemvalue="Python.yml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d632ae-18d8-4bea-9d20-cf5d9a65f341" name="Default Changelist" comment="" />
+      <created>1580723261749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580723261749</updated>
+      <workItem from="1580723265114" duration="667000" />
+      <workItem from="1580724966184" duration="536000" />
+      <workItem from="1580725522266" duration="36000" />
+      <workItem from="1580725573040" duration="35000" />
+      <workItem from="1580725623485" duration="166000" />
+      <workItem from="1580725860303" duration="136000" />
+      <workItem from="1580726013901" duration="77000" />
+      <workItem from="1580727393030" duration="978000" />
+      <workItem from="1580728485682" duration="34000" />
+      <workItem from="1580738163690" duration="258000" />
+      <workItem from="1580779185220" duration="294000" />
+      <workItem from="1580779653424" duration="1909000" />
+      <workItem from="1580794388397" duration="641000" />
+      <workItem from="1581492478200" duration="743000" />
+      <workItem from="1584845604065" duration="5283000" />
+      <workItem from="1585023667814" duration="1524000" />
+      <workItem from="1585638150756" duration="1072000" />
+      <workItem from="1585664762679" duration="1662000" />
+      <workItem from="1585736039658" duration="718000" />
+      <workItem from="1585750184366" duration="307000" />
+      <workItem from="1585893827888" duration="2203000" />
+      <workItem from="1586226116056" duration="554000" />
+      <workItem from="1586417698727" duration="760000" />
+      <workItem from="1586436981607" duration="250000" />
+      <workItem from="1587101165717" duration="1252000" />
+      <workItem from="1587377692537" duration="607000" />
+      <workItem from="1589013229675" duration="919000" />
+      <workItem from="1589020353275" duration="1437000" />
+      <workItem from="1589205552180" duration="449000" />
+      <workItem from="1589266415671" duration="1189000" />
+      <workItem from="1589279424614" duration="853000" />
+      <workItem from="1589287963027" duration="2837000" />
+      <workItem from="1589342514493" duration="1859000" />
+      <workItem from="1589680500497" duration="7772000" />
+      <workItem from="1589884038460" duration="526000" />
+      <workItem from="1589884624593" duration="371000" />
+      <workItem from="1589885406345" duration="2541000" />
+      <workItem from="1589943916371" duration="2528000" />
+      <workItem from="1589946950110" duration="568000" />
+      <workItem from="1589947607777" duration="181000" />
+      <workItem from="1590041230426" duration="603000" />
+      <workItem from="1590042282878" duration="2324000" />
+      <workItem from="1590050262756" duration="1519000" />
+      <workItem from="1590054885409" duration="608000" />
+      <workItem from="1590132859283" duration="1877000" />
+      <workItem from="1590142258524" duration="868000" />
+      <workItem from="1590401060111" duration="717000" />
+      <workItem from="1590462536063" duration="6007000" />
+      <workItem from="1590480055410" duration="7245000" />
+      <workItem from="1590559945098" duration="22000" />
+      <workItem from="1590563494771" duration="2053000" />
+      <workItem from="1590580049893" duration="484000" />
+      <workItem from="1590638011763" duration="514000" />
+      <workItem from="1590651704563" duration="638000" />
+      <workItem from="1590652845088" duration="610000" />
+      <workItem from="1590723219162" duration="906000" />
+      <workItem from="1590897590200" duration="7000" />
+      <workItem from="1590897670137" duration="35000" />
+      <workItem from="1590986413248" duration="882000" />
+      <workItem from="1591084758378" duration="1453000" />
+      <workItem from="1591087754194" duration="483000" />
+      <workItem from="1591088254970" duration="22000" />
+      <workItem from="1591088295011" duration="83000" />
+      <workItem from="1591095501110" duration="1744000" />
+      <workItem from="1591098860038" duration="1375000" />
+      <workItem from="1591175263809" duration="1398000" />
+      <workItem from="1591176679591" duration="3000" />
+      <workItem from="1591180382107" duration="1913000" />
+      <workItem from="1591236669941" duration="1366000" />
+      <workItem from="1591238049498" duration="2198000" />
+      <workItem from="1591259623988" duration="1961000" />
+      <workItem from="1591328827236" duration="716000" />
+      <workItem from="1591346601814" duration="3822000" />
+      <workItem from="1591352579122" duration="3340000" />
+      <workItem from="1591757942777" duration="1556000" />
+      <workItem from="1591782838118" duration="317000" />
+      <workItem from="1591862346855" duration="1221000" />
+      <workItem from="1592562574684" duration="2260000" />
+      <workItem from="1592799622208" duration="3209000" />
+      <workItem from="1592880137770" duration="33000" />
+      <workItem from="1592880902402" duration="298000" />
+      <workItem from="1592964523375" duration="42000" />
+      <workItem from="1592968040581" duration="1491000" />
+      <workItem from="1592971834455" duration="2276000" />
+      <workItem from="1592976473665" duration="671000" />
+      <workItem from="1592978934606" duration="1075000" />
+      <workItem from="1592980248080" duration="12692000" />
+      <workItem from="1592995349369" duration="80000" />
+      <workItem from="1592995533831" duration="1202000" />
+      <workItem from="1593261413689" duration="717000" />
+      <workItem from="1593325951486" duration="781000" />
+      <workItem from="1593331344230" duration="574000" />
+      <workItem from="1593337391684" duration="27000" />
+      <workItem from="1593352417117" duration="964000" />
+      <workItem from="1593396224570" duration="1381000" />
+      <workItem from="1593397815625" duration="411000" />
+      <workItem from="1593399949294" duration="54000" />
+      <workItem from="1593432701830" duration="10271000" />
+      <workItem from="1593611893930" duration="685000" />
+      <workItem from="1593615571504" duration="939000" />
+      <workItem from="1593748673054" duration="632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="371" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591348023364">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1591348023364" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1593749304647">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1593749304647" />
+    <state width="796" height="133" key="GridCell.Tab.0.bottom" timestamp="1593616511522">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="796" height="133" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593616511522" />
+    <state width="796" height="133" key="GridCell.Tab.0.center" timestamp="1593616511521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="796" height="133" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1593616511521" />
+    <state width="796" height="133" key="GridCell.Tab.0.left" timestamp="1593616511521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="796" height="133" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1593616511521" />
+    <state width="796" height="133" key="GridCell.Tab.0.right" timestamp="1593616511521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="796" height="133" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1593616511521" />
+    <state width="1237" height="187" key="GridCell.Tab.1.bottom" timestamp="1593483535769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1593483535769" />
+    <state width="1237" height="187" key="GridCell.Tab.1.center" timestamp="1593483535769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1593483535769" />
+    <state width="1237" height="187" key="GridCell.Tab.1.left" timestamp="1593483535769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1593483535769" />
+    <state width="1237" height="187" key="GridCell.Tab.1.right" timestamp="1593483535769">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="187" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1593483535769" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1592979131990">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1592979131990" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592988683083">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1592988683083" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>50</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/es_api.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/test2$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1590133745372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$async.coverage" NAME="async Coverage Results" MODIFIED="1590041606474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1591096636609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$process.coverage" NAME="process Coverage Results" MODIFIED="1590051406261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$produce.coverage" NAME="produce Coverage Results" MODIFIED="1591261523775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$yml.coverage" NAME="yml Coverage Results" MODIFIED="1593352680635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$gevent.coverage" NAME="gevent Coverage Results" MODIFIED="1591241463147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$auto_test.coverage" NAME="auto_test Coverage Results" MODIFIED="1590484066367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$gevent_test__1_.coverage" NAME="gevent_test (1) Coverage Results" MODIFIED="1591261495855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$network.coverage" NAME="network Coverage Results" MODIFIED="1584849073775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$str_test.coverage" NAME="str_test Coverage Results" MODIFIED="1592562781805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$login.coverage" NAME="login Coverage Results" MODIFIED="1590475463834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Roaming/LanxinSoftCustom/Resource/Docs" />
+    <SUITE FILE_PATH="coverage/test2$huitu.coverage" NAME="huitu Coverage Results" MODIFIED="1591355987283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$DpTech_EDS.coverage" NAME="DpTech-EDS Coverage Results" MODIFIED="1593481719773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$jicheng.coverage" NAME="jicheng Coverage Results" MODIFIED="1591862373366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$es.coverage" NAME="es Coverage Results" MODIFIED="1585912758493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$attritubition.coverage" NAME="attritubition Coverage Results" MODIFIED="1590723448411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$testDp.coverage" NAME="testDp Coverage Results" MODIFIED="1593433301032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Roaming/LanxinSoftCustom/Resource/Docs" />
+    <SUITE FILE_PATH="coverage/test2$DpTech_EDS1.coverage" NAME="DpTech-EDS1 Coverage Results" MODIFIED="1593483464719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Documents/WeChat Files/wxid_thegjofj0in722/FileStorage/File/2020-06" />
+    <SUITE FILE_PATH="coverage/test2$xiecheng.coverage" NAME="xiecheng Coverage Results" MODIFIED="1591261522112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$multiproce.coverage" NAME="multiproce Coverage Results" MODIFIED="1590041509856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1591098933227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$es_api.coverage" NAME="es_api Coverage Results" MODIFIED="1589727197234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/test2$test.coverage" NAME="test Coverage Results" MODIFIED="1593615639025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

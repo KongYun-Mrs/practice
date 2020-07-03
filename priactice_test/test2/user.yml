@@ -1,0 +1,18 @@
+- ni: password
+- user: admin
+- pass: admin123
+
+- name: dashbord
+  cname: 首页
+  path: /skyeye/home/dashbord
+  order_by: 10
+  items:
+    - name: business_stat
+      cname: 仪表板
+      path: /skyeye/dashboard/statistic
+      uuid: xenadmin.blueprints.dashboard.views_dashboard.DashboardView
+  friends:
+    - zhangsan
+    - lisi
+    - wangwu
+
