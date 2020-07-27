@@ -9,4 +9,4 @@ if __name__ == '__main__':
         try:
             socket_server.sendall(msg)
         except Exception as e:
-            print e
+            print (e)
