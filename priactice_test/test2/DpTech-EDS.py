@@ -2,7 +2,7 @@
 import sys
 import time
 import json
-import base64
+import base_64
 import hashlib
 import requests
 import traceback
@@ -101,7 +101,7 @@ def get_user_authorization(username, password):
 
 
 def base64_str(s):
-    return base64.encodestring(s)[:-1]
+    return base_64.encodestring(s)[:-1]
 
 
 def hash_str(s):
