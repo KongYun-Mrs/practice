@@ -18,9 +18,26 @@ import os
 # 将文件后缀进行分离，返回一个元组，元组的第一个元素为除过文件名称后缀剩余部分，第二个元素为文件后缀；当文件没有后缀的时候，第二个元素为空。
 # os.path.splitext('./Smart.py')
 
-list1 = os.listdir('./Soul')
-print(list1)
-for name in list1:
-    oldname = os.path.join('./Soul', name)
-    new_name = os.path.join('./Soul', os.path.splitext(name)[0] + '.py')
-    os.renames(oldname, new_name)
+# list1 = os.listdir('./Soul')
+# print(list1)
+# for name in list1:
+#     oldname = os.path.join('./Soul', name)
+#     new_name = os.path.join('./Soul', os.path.splitext(name)[0] + '.py')
+#     os.renames(oldname, new_name)
+
+import glob
+import fnmatch
+import shutil
+
+txt_list = glob.glob('*.txt')
+print(txt_list)
+
+names = ['a1.txt', 'd2.txt', 'b1.txt', 'd2.jpg']
+print(fnmatch.filter(names, '*.txt'))
+print(fnmatch.filter(names, '[!a-c]?.txt'))
+
+# shutil.copy('make.bat', 'bc.bat')
+# shutil.move('make.bat', 'avc.bat')
+
+shutil.rmtree('./build')
+shutil.rmtree('./source')
